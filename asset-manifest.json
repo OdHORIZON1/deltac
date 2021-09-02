@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/deltac/static/css/main.b874846a.chunk.css",
+    "main.js": "/deltac/static/js/main.e1cb724d.chunk.js",
+    "main.js.map": "/deltac/static/js/main.e1cb724d.chunk.js.map",
+    "runtime-main.js": "/deltac/static/js/runtime-main.44524db3.js",
+    "runtime-main.js.map": "/deltac/static/js/runtime-main.44524db3.js.map",
+    "static/js/2.2283137a.chunk.js": "/deltac/static/js/2.2283137a.chunk.js",
+    "static/js/2.2283137a.chunk.js.map": "/deltac/static/js/2.2283137a.chunk.js.map",
+    "index.html": "/deltac/index.html",
+    "static/css/main.b874846a.chunk.css.map": "/deltac/static/css/main.b874846a.chunk.css.map",
+    "static/js/2.2283137a.chunk.js.LICENSE.txt": "/deltac/static/js/2.2283137a.chunk.js.LICENSE.txt",
+    "static/media/1.5c62f101.jpg": "/deltac/static/media/1.5c62f101.jpg",
+    "static/media/hero.css": "/deltac/static/media/bg.4f8bcde7.png",
+    "static/media/contact.css": "/deltac/static/media/contact.e55ae0ae.png",
+    "static/media/logo.e3027f67.png": "/deltac/static/media/logo.e3027f67.png",
+    "static/media/logodark.45461d8a.png": "/deltac/static/media/logodark.45461d8a.png",
+    "static/media/team.css": "/deltac/static/media/team.4680c445.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44524db3.js",
+    "static/js/2.2283137a.chunk.js",
+    "static/css/main.b874846a.chunk.css",
+    "static/js/main.e1cb724d.chunk.js"
+  ]
+}
