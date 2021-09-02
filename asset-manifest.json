@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/deltac/static/css/main.b874846a.chunk.css",
-    "main.js": "/deltac/static/js/main.e1cb724d.chunk.js",
-    "main.js.map": "/deltac/static/js/main.e1cb724d.chunk.js.map",
+    "main.js": "/deltac/static/js/main.87505d38.chunk.js",
+    "main.js.map": "/deltac/static/js/main.87505d38.chunk.js.map",
     "runtime-main.js": "/deltac/static/js/runtime-main.44524db3.js",
     "runtime-main.js.map": "/deltac/static/js/runtime-main.44524db3.js.map",
     "static/js/2.2283137a.chunk.js": "/deltac/static/js/2.2283137a.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.44524db3.js",
     "static/js/2.2283137a.chunk.js",
     "static/css/main.b874846a.chunk.css",
-    "static/js/main.e1cb724d.chunk.js"
+    "static/js/main.87505d38.chunk.js"
   ]
 }
